@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://forgewisp.com"><img src="assets/btn-website.svg" alt="Forgewisp.com" height="44"></a>&nbsp;
-  <a href="https://www.roblox.com/communities/906538351/Forgewisp"><img src="assets/btn-roblox.svg" alt="Forgewisp on Roblox" height="44"></a>&nbsp;
+  <a href="https://www.roblox.com/users/30492533/profile"><img src="assets/btn-roblox.svg" alt="28Y8 on Roblox" height="44"></a>&nbsp;
   <a href="https://x.com/RealTwoEight"><img src="assets/btn-x.svg" alt="@RealTwoEight on X" height="44"></a>&nbsp;
   <a href="mailto:contact@forgewisp.com"><img src="assets/btn-email.svg" alt="contact@forgewisp.com" height="44"></a>
 </p>
@@ -12,7 +12,7 @@
 <br>
 
 <p align="center">
-  <img src="assets/card-about.svg" alt="About: Game Developer, Software Developer and Founder of Forgewisp. I make games on Roblox, from gameplay and systems to 3D models and textures. Outside of games I build web apps and tooling with TypeScript, Python and C#." width="100%">
+  <img src="assets/card-about.svg" alt="About: Game Developer, Software Developer and Founder of Forgewisp. I make games on Roblox, from gameplay and systems to 3D models and textures. Outside of games I build software, tools and websites with C++, C#, Python and JavaScript." width="100%">
 </p>
 
 <br>
@@ -29,5 +29,5 @@
 <br>
 
 <p align="center">
-  <img src="assets/card-stack.svg" alt="Tech stack: Roblox Studio, Blender, Photoshop, Substance 3D Painter, Substance 3D Designer, TypeScript, JavaScript, HTML, CSS, Python, C#, PHP and Git." width="100%">
+  <img src="assets/card-stack.svg" alt="Tech stack: Roblox Studio, Blender, Photoshop, Substance 3D Painter, Substance 3D Designer, Lua, Luau, C++, C#, Python, JavaScript, HTML, CSS, PHP and Git." width="100%">
 </p>
