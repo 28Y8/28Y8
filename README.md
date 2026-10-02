@@ -12,7 +12,7 @@
 <br>
 
 <p align="center">
-  <img src="assets/card-about.svg" alt="About: Game developer and founder of Forgewisp. Most of my work is gameplay systems in Luau for Roblox. Outside of games I build web apps and tooling with TypeScript, Python and C#." width="100%">
+  <img src="assets/card-about.svg" alt="About: Game developer and founder of Forgewisp. I make games on Roblox, from gameplay and systems to 3D models and textures. Outside of games I build web apps and tooling with TypeScript, Python and C#." width="100%">
 </p>
 
 <br>
@@ -29,5 +29,5 @@
 <br>
 
 <p align="center">
-  <img src="assets/card-stack.svg" alt="Tech stack: Roblox Studio, Luau, TypeScript, JavaScript, HTML, CSS, Python, C#, PHP and Git." width="100%">
+  <img src="assets/card-stack.svg" alt="Tech stack: Roblox Studio, Blender, Photoshop, Substance 3D Painter, Substance 3D Designer, TypeScript, JavaScript, HTML, CSS, Python, C#, PHP and Git." width="100%">
 </p>
