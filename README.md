@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.svg" alt="28Y8: Software developer and founder of Forgewisp" width="100%">
+  <img src="assets/banner.svg" alt="28Y8: Game developer and founder of Forgewisp" width="100%">
 </p>
 
 <p align="center">
@@ -12,7 +12,7 @@
 <br>
 
 <p align="center">
-  <img src="assets/card-about.svg" alt="About: Software developer and founder of Forgewisp. Most of my work is gameplay systems in Luau for Roblox. Outside of games I build web apps and tooling with TypeScript, Python and C#." width="100%">
+  <img src="assets/card-about.svg" alt="About: Game developer and founder of Forgewisp. Most of my work is gameplay systems in Luau for Roblox. Outside of games I build web apps and tooling with TypeScript, Python and C#." width="100%">
 </p>
 
 <br>
