@@ -3,9 +3,9 @@
 </p>
 
 <p align="center">
+  <a href="mailto:contact@forgewisp.com"><img src="assets/btn-contact.svg" alt="Contact" height="44"></a>&nbsp;
   <a href="https://www.roblox.com/users/30492533/profile"><img src="assets/btn-roblox-profile.svg" alt="28Y8 on Roblox" height="44"></a>&nbsp;
-  <a href="https://x.com/RealTwoEight"><img src="assets/btn-x-link.svg" alt="28Y8 on X" height="44"></a>&nbsp;
-  <a href="mailto:contact@forgewisp.com"><img src="assets/btn-contact.svg" alt="Contact" height="44"></a>
+  <a href="https://x.com/RealTwoEight"><img src="assets/btn-x-small.svg" alt="28Y8 on X" height="44"></a>
 </p>
 
 <br>
