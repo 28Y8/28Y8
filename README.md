@@ -3,10 +3,9 @@
 </p>
 
 <p align="center">
-  <a href="https://forgewisp.com"><img src="assets/btn-website.svg" alt="Forgewisp.com" height="44"></a>&nbsp;
   <a href="https://www.roblox.com/users/30492533/profile"><img src="assets/btn-roblox.svg" alt="28Y8 on Roblox" height="44"></a>&nbsp;
-  <a href="https://x.com/RealTwoEight"><img src="assets/btn-x.svg" alt="@RealTwoEight on X" height="44"></a>&nbsp;
-  <a href="mailto:contact@forgewisp.com"><img src="assets/btn-email.svg" alt="contact@forgewisp.com" height="44"></a>
+  <a href="https://x.com/RealTwoEight"><img src="assets/btn-x.svg" alt="28Y8 on X" height="44"></a>&nbsp;
+  <a href="mailto:contact@forgewisp.com"><img src="assets/btn-email.svg" alt="Contact" height="44"></a>
 </p>
 
 <br>
